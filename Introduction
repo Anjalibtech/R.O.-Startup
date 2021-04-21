@@ -26,7 +26,7 @@
   opacity:1;
   }
   
-    h1 {
+    h1,h1 {
     text-align:centre;
     font-size:44px;
     }
@@ -63,7 +63,7 @@
    
    .footer-list li {
    padding:10px 15px;
-   float:centre;
+   float:right;
    }
    </style>
  </head>
