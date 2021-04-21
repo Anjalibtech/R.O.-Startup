@@ -65,7 +65,7 @@
     <li>E-mail:s.s.enterprises@gmail.com</li></ul>
    </div>
   </footer>
-  </body> 
+  
   <style>
  li {
  list-style:none;
@@ -128,4 +128,5 @@
    float:centre;
    }
    </style>
+   </body>
    </html>
