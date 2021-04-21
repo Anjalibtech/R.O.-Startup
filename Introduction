@@ -38,6 +38,7 @@
   <style>
   . main {
   color:#000000;
+  background:transparent;
   }
   </style>
    <div class="body-contents">
