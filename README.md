@@ -17,6 +17,8 @@
   header {
   background-color:#000080;
   color:#f5fffa;
+  height:50px;
+  width:200px:                                      
   }
   </style>                                      
    <div class="header-logo">Home</div>
@@ -33,7 +35,12 @@
    <li>Products</li>
    </ul></div>
   </header>
-  <div class="main">               
+  <div class="main"> 
+  <style>
+  . main {
+  color:#ff0000;
+  }
+  </style>                 
    <div class="body-contents">
     <h1>"Save Water Save Earth"</h1>
     <h1>"Safe Water Save Lives"</h1>
@@ -52,7 +59,12 @@
     </style>                               
    <div class="contents">
     <h3>About Us:</h3>
-     <p>We are on a <b>mission<b><br>To give <b>safe & pure water</b> to <b>Everyone.</b>
+     <p>We are on a <span>mission</span><br>To give <span>safe & pure water</span> to <span>Everyone.</span>
+     <style>
+     . contents span {
+     font-size:24px;
+     }
+     </style>                   
      <h4>History<h4>
       <p>S.S. Enterprise was established on 20th April,2021 in Meerut, Uttar Pradesh</p>
      <h4>People Involved</h4>
@@ -60,6 +72,12 @@
     <h3>Services<h3>
      <p>It provides services as installing R.O. Water Purifiers and repairing water purifiers installed by the enterprise as well as other enterprises.</p>
      <p>The water purifiers installed contain a warranty for a span of<span>1 year</span>and have <span>3 Free Services</span>.</p>
+     <style>
+     span {
+     font-size:20px;
+     color:#800080;
+     }
+     </style>                   
     <h3>Products</h3>
     <img src="" alt="Aqua Nexus Purifier">
      <p>Aqua Nexus</p>
