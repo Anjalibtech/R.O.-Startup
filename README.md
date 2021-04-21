@@ -39,8 +39,8 @@
      <p>Aqua Prime</p>
      <img src="" alt="Aqua Fresh Purifier">
      <p>Aqua Fresh</p>
-     <img src="" alt="Aqua Guard Purifier">
-     <p>Aqua Guard</p>
+     <img src="" alt="Aqua Grand Purifier">
+     <p>Aqua Grand</p>
     </div>
    </div>
      <footer>
