@@ -33,12 +33,7 @@
    <li>Products</li>
    </ul></div>
   </header>
-  <div class="main">
-  <style>
-  .main {
-  background-color:#fff;
-  }
-  </style>                 
+  <div class="main">               
    <div class="body-contents">
     <h1>"Save Water Save Earth"</h1>
     <h1>"Safe Water Save Lives"</h1>
