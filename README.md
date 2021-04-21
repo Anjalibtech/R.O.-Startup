@@ -1,4 +1,4 @@
-# R.O.-Startup
+# S.S.Enterprise
 <!DOCTYPE html>
 <html>
  <head>
@@ -13,7 +13,7 @@
    <li>About Us<div class="About Us"><ul><li>History</li> <li>People Involved<li></ul></div>
    <li>Services</li>
    <li>Products</li>
-   <li>Contact Us</li></ul></div>
+   </ul></div>
   </header>
   <div class="main">
    <div class="body-contents">
