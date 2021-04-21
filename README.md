@@ -4,7 +4,7 @@
  <head>
   <meta charset="UTF-8>
   <title>S.S. Enterprise</title>
-  <link rel="R.O.-Startup" href="">
+  <link rel="stylesheet" href="attached">
  </head>
  <body>
   <header>
