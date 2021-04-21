@@ -26,8 +26,7 @@
    <style>
    .header-list li{
    float:left;
-   padding:40px 40px;
-   color:#fffff0;
+   padding:20px 20px;
    }
    </style>                        
    <li>About Us<div class="About Us"><ul><li>History</li> <li>People Involved<li></ul></div>
@@ -38,7 +37,7 @@
   <div class="main"> 
   <style>
   . main {
-  color:#ff0000;
+  color:#000000;
   }
   </style>                 
    <div class="body-contents">
