@@ -36,6 +36,11 @@
     font-size:35px;
     }
     
+    h3 {
+    font-size:35px;
+    color:#008000;
+    }
+    
      .contents span {
      font-size:24px;
      }
@@ -48,7 +53,7 @@
     . contact-form {
    input-border:20px solid #7444d4;
    textarea-border:40px solid #7444d4;
-   input type-border:10px solid #7444d4;
+   input type-border:10px solid #800080;
    } 
    
    footer {
