@@ -12,8 +12,8 @@
    header {
   background-color:#000080;
   color:#f5fffa;
-  height:50px;
-  width:200px:
+  height:75px;
+  width:100px:
   }
   
    .header-list li{
