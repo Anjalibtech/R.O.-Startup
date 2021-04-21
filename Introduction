@@ -21,17 +21,17 @@
   </style>
    <div class="header-logo">Home</div>
    <div class="header-list">
+   <ul>
+   <li>About Us</li>
+   <li>Services</li>
+   <li>Products</li>
+   </ul></div>
    <style>
    .header-list li{
    float:left;
    padding:20px 20px;
    }
    </style>
-   <ul>
-   <li>About Us</li>
-   <li>Services</li>
-   <li>Products</li>
-   </ul></div>
   </header>
   <div class="main">
   <style>
@@ -55,7 +55,7 @@
     text-align:centre;
     font-size:35px;
     }
-    </style>
+    </style></div>
    <div class="contents">
     <h3>About Us:</h3>
      <p>We are on a <span>mission</span><br>To give <span>safe & pure water</span> to <span>Everyone.</span>
@@ -98,13 +98,12 @@
     <p>Write your Message</p>
     <textarea></textarea>
     <input type="Submit" value="Give Feedback">
-   </div>
    <style>
    . contact-form {
    input-border:20px solid #7444d4;
    textarea-border:40px solid #7444d4;
    input type-border:10px solid #7444d4;
-   </style>
+   </style></div>
   </div>
   <footer>
   <style>
