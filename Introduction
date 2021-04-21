@@ -25,11 +25,11 @@
     <h3>About Us:</h3>
      <p>We are on a <span>mission</span><br>To give <span>safe & pure water</span> to <span>Everyone</span>.</p>
      
-     <h4>History<h4>
+     <h4>History</h4>
       <p>S.S. Enterprise was established on 20th April,2021 in Meerut, Uttar Pradesh</p>
      <h4>People Involved</h4>
       <p>It was started by Mr.Sanjay Gupta and Mr.Sudhir Gupta.<br>Before starting this startup both of us worked in a transformer manufacturing company under different departments.</p>
-    <h3>Services<h3>
+    <h3>Services</h3>
      <p>It provides services as installing R.O. Water Purifiers and repairing water purifiers installed by the enterprise as well as other enterprises.</p>
      <p>The water purifiers installed contain a warranty for a span of<span>1 year</span>and have <span>3 Free Services</span>.</p>
     <h3>Products</h3>
@@ -49,7 +49,7 @@
     <p>Write your name</p>
     <input>
     <p>Write your E-mail address</p>
-    <textarea<</textarea>
+    <textarea></textarea>
     <p>Write your Message</p>
     <textarea></textarea>
     <input type="Submit" value="Give Feedback">
