@@ -38,7 +38,7 @@
   <style>
   . main {
   color:#000000;
-  background:transparent;
+  opacity:1;
   }
   </style>
    <div class="body-contents">
