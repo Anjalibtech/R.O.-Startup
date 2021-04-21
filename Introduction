@@ -54,6 +54,7 @@
    input-border:20px solid #7444d4;
    textarea-border:40px solid #7444d4;
    input type-border:10px solid #800080;
+   input type-padding:10px;
    } 
    
    footer {
