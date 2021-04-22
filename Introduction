@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
  <head>
   <meta charset="UTF-8">
@@ -102,11 +102,11 @@
      <p>It provides services as installing R.O. Water Purifiers and repairing water purifiers installed by the enterprise as well as other enterprises.</p>
      <p>The water purifiers installed contain a warranty for a span of<span>1 year</span>and have <span>3 Free Services</span>.</p>
     <h3>Products</h3>
-     <img src="C:\Users\ACER\OneDrive\Pictures\Screenshots\Saved Pictures" alt="Aqua Nexus Purifier">
+     <img src="Documents" alt="Aqua Nexus Purifier">
      <p>Aqua Nexus</p>
-     <img src="C:\Users\ACER\OneDrive\Pictures\Planet9" alt="Aqua Prime Purifier">
+     <img src="Documents" alt="Aqua Prime Purifier">
      <p>Aqua Prime</p>
-     <img src="C:\Users\ACER\OneDrive\Pictures\PhotoDirector" alt="Aqua Fresh Purifier">
+     <img src="Documents" alt="Aqua Fresh Purifier">
      <p>Aqua Fresh</p>
      <img src="Documents" alt="Aqua Grand+ Purifier">
      <p>Aqua Grand+</p>
