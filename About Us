@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>About Us</title>
+  <style>
+   li {
+   list-style:none;
+   }
+   
+   header {
+   background-color:#ff7f50;
+   color:#f5fffa;
+   height:75px;
+   width:100px:
+   }
+  
+   .header-list li{
+   float:left;
+   padding:20px 20px;
+   }
+  </style>
+ </head>
+ <body>
+  <header>
+   <div class="header-logo">About Us</div>
+   <div class="header-list"><ul>
+    <li>History</li>
+    <li>People Involved</li></ul></div>
+  </header>
+ </body>
+</html> 
