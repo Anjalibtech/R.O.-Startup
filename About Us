@@ -48,7 +48,7 @@
    footer {
   background-color:#008080;
   color:#fffafa;
-  opacuty:1;
+  opacity:1;
   }
   
   .footer-logo {
