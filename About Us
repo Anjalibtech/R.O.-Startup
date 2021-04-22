@@ -49,6 +49,8 @@
   background-color:#008080;
   color:#fffafa;
   opacity:1;
+  height;150px:
+  width;180px;
   }
   
   .footer-logo {
