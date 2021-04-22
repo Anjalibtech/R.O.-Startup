@@ -34,7 +34,7 @@
     }
     
     h2 {
-    margin-centre:40px;
+    margin-centre:45px;
     font-size:35px;
     }
     
