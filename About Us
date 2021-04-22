@@ -18,6 +18,31 @@
    float:left;
    padding:20px 20px;
    }
+   
+  . main {
+  color:#000000;
+  opacity:1;
+  }
+  
+  h1 {
+  font-size:40px;
+  color:#9fe2bf;
+  }
+    
+  h2 {
+  text-align:centre;
+  font-size:38px;
+  color:#008000;
+  }
+    
+  h3 {
+  font-size:35px;
+  color:#008000;
+  }
+    
+  .contents span {
+   font-size:44px;
+   }
   </style>
  </head>
  <body>
@@ -27,5 +52,17 @@
     <li>History</li>
     <li>People Involved</li></ul></div>
   </header>
+  <div class="main">
+   <div class="contents">
+    <h1>About Us:</h1>
+    <h2>Vision</h2>
+     <p>We are on a <span>mission</span><br>To give <span>safe & pure water</span> to <span>Everyone</span>.</p>
+     
+     <h3>History</h3>
+      <p>S.S. Enterprise was established on 20th April,2021 in Meerut, Uttar Pradesh</p>
+     <h3>People Involved</h3>
+      <p>It was started by Mr.Sanjay Gupta and Mr.Sudhir Gupta.<br>Before starting this startup both of us worked in a transformer manufacturing company under different departments.</p>
+   </div>
+  </div> 
  </body>
 </html> 
