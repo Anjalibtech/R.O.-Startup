@@ -27,13 +27,14 @@
   opacity:1;
   }
   
-    h1,h1 {
-    text-align:centre;
+    h1 {
+    margin-centre:85px;
     font-size:44px;
+    color:#ff0000;
     }
     
     h2 {
-    text-align:centre;
+    margin-centre:40px;
     font-size:35px;
     }
     
