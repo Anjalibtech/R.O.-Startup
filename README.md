@@ -1,4 +1,4 @@
-# S.S.Enterprise
+#S.S. Enreprises
 <!DOCTYPE html>
 <html>
  <head>
@@ -13,8 +13,8 @@
    header {
   background-color:#000080;
   color:#f5fffa;
-  height:50px;
-  width:200px:
+  height:100px;
+  width:100px:
   }
   
    .header-list li{
@@ -27,7 +27,7 @@
   opacity:1;
   }
   
-    h1 {
+    h1,h1 {
     text-align:centre;
     font-size:44px;
     }
@@ -35,6 +35,11 @@
     h2 {
     text-align:centre;
     font-size:35px;
+    }
+    
+    h3 {
+    font-size:35px;
+    color:#008000;
     }
     
      .contents span {
@@ -49,12 +54,15 @@
     . contact-form {
    input-border:20px solid #7444d4;
    textarea-border:40px solid #7444d4;
-   input type-border:10px solid #7444d4;
+   input type-border:10px solid #800080;
+   input type-padding:10px;
    } 
    
    footer {
   background-color:#008080;
   color:#fffafa;
+  height:150px;
+  width:880px;
   }
   
   .footer-logo {
@@ -63,8 +71,8 @@
    }
    
    .footer-list li {
-   padding:10px 15px;
-   float:centre;
+   padding:10px 5px;
+   float:right;
    }
    </style>
  </head>
@@ -73,9 +81,9 @@
    <div class="header-logo">Home</div>
    <div class="header-list">
    <ul>
-   <li>About Us</li>
-   <li>Services</li>
-   <li>Products</li>
+   <li><a href="https://anjalibtech.github.io/About-us/">About Us</a></li>
+   <li><a href="https://anjalibtech.github.io/Services/">Services</a></li>
+   <li><a href="https://anjalibtech.github.io/Products/">Products</a></li>
    </ul></div>
    
   </header>
@@ -87,6 +95,7 @@
    </div>
    <div class="contents">
     <h3>About Us:</h3>
+     <h4>Vision</h4>
      <p>We are on a <span>mission</span><br>To give <span>safe & pure water</span> to <span>Everyone</span>.</p>
      
      <h4>History</h4>
@@ -97,17 +106,15 @@
      <p>It provides services as installing R.O. Water Purifiers and repairing water purifiers installed by the enterprise as well as other enterprises.</p>
      <p>The water purifiers installed contain a warranty for a span of<span>1 year</span>and have <span>3 Free Services</span>.</p>
     <h3>Products</h3>
-    <img src="" alt="Aqua Nexus Purifier">
+     <img src="Documents" alt="Aqua Nexus Purifier">
      <p>Aqua Nexus</p>
-     <img src="" alt="Aqua Gold Purifier">
-     <p>Aqua Gold</p>
-     <img src="" alt="Aqua Prime Purifier">
+     <img src="Documents" alt="Aqua Prime Purifier">
      <p>Aqua Prime</p>
-     <img src="" alt="Aqua Fresh Purifier">
+     <img src="Documents" alt="Aqua Fresh Purifier">
      <p>Aqua Fresh</p>
-     <img src="" alt="Aqua Grand Purifier">
-     <p>Aqua Grand</p>
-    </div>
+     <img src="Documents" alt="Aqua Grand+ Purifier">
+     <p>Aqua Grand+</p>
+   </div>
    <div class="contact-form">
     <p>Give us your Feedback</p>
     <p>Write your name</p>
