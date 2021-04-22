@@ -68,6 +68,7 @@
   <header>
    <div class="header-logo">About Us</div>
    <div class="header-list"><ul>
+    <li>Vision</li>
     <li>History</li>
     <li>People Involved</li></ul></div>
   </header>
