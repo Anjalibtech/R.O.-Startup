@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
  <head>
   <meta charset="UTF-8">
@@ -68,7 +68,7 @@
    }
    
    .footer-list li {
-   padding:10px 15px;
+   padding:10px 5px;
    float:right;
    }
    </style>
