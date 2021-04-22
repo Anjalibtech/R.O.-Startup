@@ -101,29 +101,29 @@
      <h4>History</h4>
       <p>S.S. Enterprise was established on 20th April,2021 in Meerut, Uttar Pradesh</p>
      <h4>People Involved</h4>
-      <p>It was started by Mr.Sanjay Gupta and Mr.Sudhir Gupta.<br>Before starting this startup both of us worked in a transformer manufacturing company under different departments.</p>
+      <p>It was started by Ms.Anjali Gupta.<br>Anjali Gupta is presently pursuing B.Tech from MIET,Meerut.</p>
     <h3>Services</h3>
      <p>It provides services as installing R.O. Water Purifiers and repairing water purifiers installed by the enterprise as well as other enterprises.</p>
      <p>The water purifiers installed contain a warranty for a span of<span>1 year</span>and have <span>3 Free Services</span>.</p>
     <h3>Products</h3>
      <img src="Documents" alt="Aqua Nexus Purifier">
-     <p>Aqua Nexus</p>
+     <p>Aqua Nexus-Rs.1500</p>
      <img src="Documents" alt="Aqua Prime Purifier">
-     <p>Aqua Prime</p>
+     <p>Aqua Prime-Rs.2000</p>
      <img src="Documents" alt="Aqua Fresh Purifier">
-     <p>Aqua Fresh</p>
+     <p>Aqua Fresh-Rs.2500</p>
      <img src="Documents" alt="Aqua Grand+ Purifier">
-     <p>Aqua Grand+</p>
+     <p>Aqua Grand+-Rs.3500</p>
    </div>
    <div class="contact-form">
-    <p>Give us your Feedback</p>
+    <p>Contact Us</p>
     <p>Write your name</p>
     <input>
     <p>Write your E-mail address</p>
     <textarea></textarea>
     <p>Write your Message</p>
     <textarea></textarea>
-    <input type="Submit" value="Give Feedback">
+    <input type="Submit" value="Contact">
   </div>
   </div>
   
@@ -132,7 +132,8 @@
    <div class="footer-list">
    <ul>
     <li>Ms.Anjali Gupta: +91xxx-000-xxxx</li>
-    <li>E-mail:anjaligupta2810cd@gmail.com</li></ul>
+    <li>E-mail:anjaligupta2810cd@gmail.com</li>
+    <li>Linkedin URL:www.linkedin.com/in/anjali-g-3b6516210</li></ul>
    </div>
   </footer>
   
