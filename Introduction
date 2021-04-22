@@ -115,14 +115,14 @@
      <p>Aqua Grand+</p>
    </div>
    <div class="contact-form">
-    <p>Give us your Feedback</p>
+    <p>Contact-us</p>
     <p>Write your name</p>
     <input>
     <p>Write your E-mail address</p>
     <textarea></textarea>
     <p>Write your Message</p>
     <textarea></textarea>
-    <input type="Submit" value="Give Feedback">
+    <input type="Submit" value="Contact">
   </div>
   </div>
   
@@ -131,7 +131,8 @@
    <div class="footer-list">
    <ul>
     <li>Ms. Anjali Gupta: +91xxx-000-xxxx</li>
-    <li>E-mail:anjaligupta2810cd@gmail.com</li></ul>
+    <li>E-mail:anjaligupta2810cd@gmail.com</li>
+    <li>Linkedin URL:www.linkedin.com/in/anjali-g-3b6516210</ul>
    </div>
   </footer>
   
