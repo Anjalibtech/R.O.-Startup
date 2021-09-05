@@ -1,4 +1,3 @@
-#S.S. Enreprises
 <!DOCTYPE html>
 <html>
  <head>
