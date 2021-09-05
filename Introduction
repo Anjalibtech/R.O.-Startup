@@ -81,9 +81,9 @@
    <div class="header-logo">Home</div>
    <div class="header-list">
    <ul>
-   <li><a href="https://anjalibtech.github.io/About-us/">About Us</a></li>
-   <li><a href="https://anjalibtech.github.io/Services/">Services</a></li>
-   <li><a href="https://anjalibtech.github.io/Products/">Products</a></li>
+   <li><a href="https://anjalibtech.github.io/About-us/" style="color:olive">About Us</a></li>
+   <li><a href="https://anjalibtech.github.io/Services/" style="color:olive">Services</a></li>
+   <li><a href="https://anjalibtech.github.io/Products/" style="color:olive">Products</a></li>
    </ul></div>
    
   </header>
